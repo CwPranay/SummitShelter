@@ -2,11 +2,7 @@
 
 A modern, dark-themed landing page for a premium tent-selling ecommerce website built with React, Vite, Tailwind CSS, and Framer Motion.
 
-![Summit Shelter](
-
-https://github.com/user-attachments/assets/4dc8944b-d70d-4744-9ef3-28c98b926cd2
-
-)
+(https://github.com/user-attachments/assets/4dc8944b-d70d-4744-9ef3-28c98b926cd2)
 
 ## 🏕️ Features
 
