@@ -2,7 +2,9 @@
 
 A modern, dark-themed landing page for a premium tent-selling ecommerce website built with React, Vite, Tailwind CSS, and Framer Motion.
 
-(https://github.com/user-attachments/assets/4dc8944b-d70d-4744-9ef3-28c98b926cd2)
+## 🎥 Demo
+
+![Demo](public/demo.mp4)
 
 ## 🏕️ Features
 
@@ -27,10 +29,10 @@ A modern, dark-themed landing page for a premium tent-selling ecommerce website 
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/CwPranay/SummitShelter.git
 
 # Navigate to project directory
-cd tent-hero
+cd SummitShelter
 
 # Install dependencies
 npm install
