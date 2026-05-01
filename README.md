@@ -4,11 +4,10 @@ A modern, dark-themed landing page for a premium tent-selling ecommerce website 
 
 ## 🎥 Demo
 
-![Demo](
 
 https://github.com/user-attachments/assets/ccf289d9-1ba5-4e31-998d-60609b1844d1
 
-)
+
 
 ## 🏕️ Features
 
